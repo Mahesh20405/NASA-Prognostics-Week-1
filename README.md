@@ -13,4 +13,6 @@ The dataset includes sensor measurements from 100 engine units with various oper
 
 ## Visualizations
 - **Sequence of Time Plot**: Displays sensor readings over time for selected engine units.
+- ![Predicted Output Image](Visualizations/SENSOR.png)
 - **Sensor Histogram**: Shows the distribution of sensor measurements across all data points.
+- - ![Predicted Output Image](Visualizations/OG.png)
