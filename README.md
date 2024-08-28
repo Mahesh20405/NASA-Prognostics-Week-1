@@ -1,7 +1,7 @@
 # NASA Prognostics Week 1
 
 ## Project Description
-This repository contains the code and documentation for analyzing engine sensor data from the NASA Prognostics Data Repository. The project involves data preprocessing, exploratory data analysis (EDA), and initial insights into the sensor measurements.
+This repository contains the code and documentation for analyzing engine sensor data from the NASA Prognostics Data Repository. The project involves data preprocessing, exploratory data analysis (EDA), and initial insights into the sensor measurements. This demonstrates the week 1 project of 'Project of The Week' series that I did on my linkedin profile.
 
 ## Project Overview
 The dataset includes sensor measurements from 100 engine units with various operational cycles. Key files include `train_FD001.txt`, `test_FD001.txt`, and `RUL_FD001.txt`.
